@@ -15,7 +15,7 @@ const DependencyExtractionWebpackPlugin = require( '@wordpress/dependency-extrac
 const JS_DIR = path.resolve( __dirname, 'assets/src/js' );
 const IMG_DIR = path.resolve( __dirname, 'assets/src/img' );
 // const LIB_DIR = path.resolve( __dirname, 'assets/src/library' );
-const BUILD_DIR = path.resolve( __dirname, 'build' );
+const BUILD_DIR = path.resolve( __dirname, 'assets/build' );
 
 const entry = {
 	editor: JS_DIR + '/editor.js',
