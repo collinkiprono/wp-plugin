@@ -63,6 +63,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _sass_editor_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../sass/editor.scss */ "./assets/src/sass/editor.scss");
 // Styles
 
+console.log("Hello World!");
 }();
 /******/ })()
 ;
